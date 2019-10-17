@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-collapse": "/components/uni-ui/uni-collapse/uni-collapse",
+    "uni-collapse-item": "/components/uni-ui/uni-collapse-item/uni-collapse-item",
+    "coupon": "/pages/user/user-coupon/user-coupon"
+  }
+}

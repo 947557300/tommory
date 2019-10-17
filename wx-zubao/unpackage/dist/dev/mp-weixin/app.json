@@ -1,0 +1,77 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/rent-goods/rent-goods",
+    "pages/subscription-goods/subscription-goods",
+    "pages/user/user",
+    "pages/login/index",
+    "pages/login/phone-check",
+    "pages/user/user-authentication/user-authentication",
+    "pages/user/user-wallet/user-wallet",
+    "pages/user/user-coupon/user-coupon",
+    "pages/user/user-wish/user-wish",
+    "pages/user/user-show/user-show",
+    "pages/user/user-address/user-address",
+    "pages/user/user-help/user-help",
+    "pages/user/user-help/help-content",
+    "pages/user/user-set/user-set",
+    "pages/user/user-set/check-number",
+    "pages/user/customer/customer",
+    "pages/user/user-address/add-address/add-address",
+    "pages/user/user-address/edit-address/edit-address",
+    "pages/user/user-order/user-order",
+    "pages/rent-goods/rent-goods-message/rent-goods-message",
+    "pages/order/order-evaluate/order-evaluate",
+    "pages/user/user-subscription-orders/user-subscription-orders",
+    "pages/order/subscription-order/subscription-order-confirm/subscription-order-confirm",
+    "pages/order/subscription-order/subscription-order-confirm/lease",
+    "pages/order/rent-order/rent-order-confirm/rent-order-confirm",
+    "pages/order/rent-order/rent-order-payment/rent-order-payment",
+    "pages/order/rent-order/rent-order-message/rent-order-message",
+    "pages/subscription-goods/subscription-goods-message/subscription-goods-message",
+    "pages/order/subscription-order/subscription-order-message/subscription-order-message",
+    "pages/order/delivery-status/delivery-status",
+    "pages/rent-goods/rent-goods-comment/rent-goods-comment",
+    "pages/order/rent-order/rent-return-order/rent-return-order",
+    "pages/index/goods-show/goods-show",
+    "pages/index/goods-show/goods-show-message/goods-show-message"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#949494",
+    "selectedColor": "#252525",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/images/tabBar/index.png",
+        "selectedIconPath": "static/images/tabBar/indexActive.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/rent-goods/rent-goods",
+        "iconPath": "static/images/tabBar/rent.png",
+        "selectedIconPath": "static/images/tabBar/rentActive.png",
+        "text": "租包"
+      },
+      {
+        "pagePath": "pages/subscription-goods/subscription-goods",
+        "iconPath": "static/images/tabBar/sell.png",
+        "selectedIconPath": "static/images/tabBar/sellActive.png",
+        "text": "认购"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/images/tabBar/my.png",
+        "selectedIconPath": "static/images/tabBar/myActive.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

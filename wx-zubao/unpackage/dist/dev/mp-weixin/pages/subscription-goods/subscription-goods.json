@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "买包",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "pgoods-list": "/components/goods-list/subscription-goods-List/subscription-goods-List",
+    "goodssearch": "/components/goods-search/goods-search",
+    "goodstab": "/components/goods-list/goods-tab/goods-tab"
+  }
+}

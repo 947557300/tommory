@@ -1,0 +1,11 @@
+
+.searchtab{
+	width: 100%;
+	padding-bottom: 10rpx;
+	background-color: #FFFFFF;
+	border-bottom:1rpx solid #ececec;
+	position: fixed;
+	z-index: 99;
+}
+
+

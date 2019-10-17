@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "心愿单",
+  "usingComponents": {
+    "wish-list": "/components/my-wish/my-wish-list"
+  }
+}

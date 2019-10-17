@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "header": "/pages/order/rent-order/rent-order-message/components/header",
+    "order": "/pages/order/rent-order/rent-order-message/components/order",
+    "message": "/pages/order/rent-order/rent-order-message/components/message"
+  }
+}

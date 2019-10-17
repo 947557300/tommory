@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的晒单",
+  "usingComponents": {
+    "uni-popup": "/components/uni-ui/uni-popup/uni-popup"
+  }
+}

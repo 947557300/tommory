@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "租包商品详情",
+  "usingComponents": {
+    "lunbo": "/components/goods-swiper/goods-swiper",
+    "title": "/components/goods-tiitle/goods-title",
+    "promise": "/components/goods-promise/goods-promise",
+    "news": "/components/goods-news/goods-news",
+    "comment": "/components/goods-comment/goods-comment",
+    "goods-details": "/components/goods-details/goods-details",
+    "butn": "/components/good-bottom-butn/goods-bottom-butn"
+  }
+}

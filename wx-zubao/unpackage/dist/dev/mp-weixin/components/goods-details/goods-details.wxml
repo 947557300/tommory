@@ -1,0 +1,1 @@
+<view><view class="details"><text>细节展示</text><block wx:for="{{img}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="img_box"><image src="{{item.image}}" mode="widthFix"></image></view></block></view></view>

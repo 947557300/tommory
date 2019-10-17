@@ -1,0 +1,1 @@
+<view><view class="searchtab"><goodssearch vue-id="1" bind:__l="__l"></goodssearch><goodstab vue-id="2" bind:__l="__l"></goodstab></view><pgoods-list vue-id="3" bind:__l="__l"></pgoods-list></view>

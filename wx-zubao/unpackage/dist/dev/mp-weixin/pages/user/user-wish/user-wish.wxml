@@ -1,0 +1,1 @@
+<view class="content"><wish-list vue-id="1" item="{{wishlist}}" sgoodslist="{{ssplist}}" data-event-opts="{{[['^arrayChanged',[['updataarray']]],['^ssparrayChanged',[['updatassparry']]]]}}" bind:arrayChanged="__e" bind:ssparrayChanged="__e" bind:__l="__l"></wish-list></view>

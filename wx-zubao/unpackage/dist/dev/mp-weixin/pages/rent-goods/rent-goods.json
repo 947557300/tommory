@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "出租",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "goods-list": "/components/goods-list/rent-goods-List/rent-goods-List",
+    "goodssearch": "/components/goods-search/goods-search",
+    "goodstab": "/components/goods-list/goods-tab/goods-tab"
+  }
+}

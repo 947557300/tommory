@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wishtext": "/components/my-wish/my-wish-text"
+  },
+  "component": true
+}

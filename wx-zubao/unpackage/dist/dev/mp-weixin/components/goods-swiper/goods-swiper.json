@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "myvideo": "/components/goods-swiper/goods-video/goods-video"
+  },
+  "component": true
+}

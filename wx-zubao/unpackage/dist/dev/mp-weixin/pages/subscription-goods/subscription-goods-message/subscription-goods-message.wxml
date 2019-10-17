@@ -1,0 +1,1 @@
+<view class="content"><view class="box"><lunbo vue-id="1" bind:__l="__l"></lunbo><title vue-id="2" bind:__l="__l"></title><leasenews vue-id="3" bind:__l="__l"></leasenews><comment vue-id="4" bind:__l="__l"></comment><s-news vue-id="5" bind:__l="__l"></s-news></view><view class="bottom"><butn vue-id="6" bind:__l="__l"></butn></view></view>

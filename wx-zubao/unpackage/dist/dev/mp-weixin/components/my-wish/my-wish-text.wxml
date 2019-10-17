@@ -1,0 +1,1 @@
+<view><view class="text_box"><view class="text"><text>您的心愿单空空如也~</text><text>快去许愿吧~</text></view><button type="default" data-event-opts="{{[['tap',[['buttonClick',['$0','$1'],['index','item']]]]]}}" bindtap="__e">去许愿</button></view></view>

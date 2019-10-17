@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "认购商品详情",
+  "usingComponents": {
+    "lunbo": "/components/goods-swiper/goods-swiper",
+    "title": "/components/goods-tiitle/subscription-goods-title/subscription-goods-title",
+    "s-news": "/components/goods-news/subscription-goods-news/subscription-goods-news",
+    "leasenews": "/components/goods-leasenews/goods-leasenews",
+    "comment": "/components/goods-comment/goods-comment",
+    "butn": "/components/good-bottom-butn/subscription-goods-bottom-butn/subscription-goods-bottom-butn"
+  }
+}

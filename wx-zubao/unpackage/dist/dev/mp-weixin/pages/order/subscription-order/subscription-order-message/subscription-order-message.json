@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "header": "/pages/order/subscription-order/subscription-order-message/components/header",
+    "order": "/pages/order/subscription-order/subscription-order-message/components/order",
+    "message": "/pages/order/subscription-order/subscription-order-message/components/message"
+  }
+}
