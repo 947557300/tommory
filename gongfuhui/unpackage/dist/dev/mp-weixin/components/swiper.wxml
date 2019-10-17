@@ -1,0 +1,1 @@
+<view class="swipercon data-v-7f45cc71"><swiper class="banner data-v-7f45cc71" autoplay="{{true}}" indicator-dots="{{true}}"><block wx:for="{{slist}}" wx:for-item="item" wx:for-index="index" wx:key="index"><swiper-item class="swiper-item data-v-7f45cc71"><image class="swiperimg data-v-7f45cc71" src="{{item.imgsrc}}"></image></swiper-item></block></swiper></view>

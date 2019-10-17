@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "co-nt": "/components/content"
+  },
+  "component": true
+}

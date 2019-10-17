@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "少儿音乐",
+  "usingComponents": {
+    "tob-bar": "/components/tobbar",
+    "swi-per": "/components/swiper",
+    "na-va": "/components/nav",
+    "gx-dt": "/components/gxdt",
+    "re-co": "/components/recommend"
+  }
+}

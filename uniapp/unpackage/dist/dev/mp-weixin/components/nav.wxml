@@ -1,0 +1,1 @@
+<view class="navc data-v-ec37b62a"><view class="navcon data-v-ec37b62a"><block wx:for="{{navlist}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view class="nc data-v-ec37b62a"><image src="{{item.src}}" class="data-v-ec37b62a"></image><view class="_p data-v-ec37b62a">{{item.name}}</view></view></block></view></view>

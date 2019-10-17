@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "少儿音乐",
+  "usingComponents": {
+    "albumblock": "/components/albumblock",
+    "top": "/components/top"
+  }
+}

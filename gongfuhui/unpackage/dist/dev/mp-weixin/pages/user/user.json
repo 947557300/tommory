@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#F7d030",
+  "usingComponents": {
+    "user-head": "/components/usehead",
+    "fu-hd": "/components/fwhd",
+    "ta-ba": "/components/tabbar"
+  }
+}

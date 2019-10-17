@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "功夫会",
+  "navigationBarBackgroundColor": "#Fcd84b",
+  "usingComponents": {
+    "sy-top": "/components/shouyetop",
+    "sw-iper": "/components/swiper",
+    "fu-li": "/components/fuli",
+    "ge-re": "/components/grzq",
+    "tui-ja": "/components/tuijian",
+    "gf-sg": "/components/gfsg",
+    "ta-ba": "/components/tabbar"
+  }
+}

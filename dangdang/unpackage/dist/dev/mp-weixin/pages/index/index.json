@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "top-search": "/components/topSearch",
+    "top-tabbar": "/components/topTabbar",
+    "banner": "/components/banner",
+    "list-pane": "/components/listPane"
+  }
+}
